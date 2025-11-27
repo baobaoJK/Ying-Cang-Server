@@ -1,0 +1,8 @@
+dist
+.git
+.DS_Store
+*.log
+upload
+logs
+images
+test.py

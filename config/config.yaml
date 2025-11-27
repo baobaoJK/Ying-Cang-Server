@@ -1,0 +1,18 @@
+"server":
+  "port": !!int "20521"
+  "host": "0.0.0.0"
+  "debug": !!bool "true"
+  "name": "Ying-Cang"
+  "key": "${API_KEY}"
+  "apiKey": "${APP_KEY}"
+  "tokenTime": !!int "7"
+  "version": "1.0.0"
+  "adminAccount": ""
+  "adminPassword": ""
+  "adminUsername": "Admin"
+"sql":
+  "host": "none"
+  "port": !!int "5432"
+  "username": "postgres"
+  "password": "123456"
+  "database": "ying_cang"
